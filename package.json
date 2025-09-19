@@ -1,0 +1,11 @@
+{
+  "name": "mytube",
+  "version": "1.0.0",
+  "description": "online-video-sharing-platform",
+  "main": "Server.js",
+  "scripts": {
+    "test": "nodemon Server.js"
+  },
+  "author": "Aniket Maity",
+  "license": "ISC"
+}
